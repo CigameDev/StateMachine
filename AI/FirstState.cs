@@ -47,6 +47,6 @@ public class FirstState : State<AI>
     }
     public override void FixedUpdateState(AI _owner)
     {
-        throw new System.NotImplementedException();
+        
     }
 }
